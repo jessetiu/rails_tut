@@ -7,6 +7,8 @@ ruby '2.5.1'
 gem 'rails', '~> 5.2.1'
 
 gem 'bootstrap-sass', '3.3.7'
+gem 'jquery-rails', '>= 4.3.3'
+
 
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
