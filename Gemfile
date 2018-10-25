@@ -9,7 +9,9 @@ gem 'rails', '~> 5.2.1'
 gem 'bootstrap-sass', '3.3.7'
 gem 'jquery-rails', '>= 4.3.3'
 gem 'rails-ujs', '~> 0.1.0'
-
+gem 'faker', '>= 1.7.3'
+gem 'will_paginate', '>= 3.1.6'
+gem 'bootstrap-will_paginate', '>= 1.0.0'
 
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
